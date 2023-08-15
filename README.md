@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 I'm Kevin, a apassionate full stack web developer from Argentina 👨‍💻</div>  
+### <div align="center">👋 I'm Kevin, a passionate full stack web developer from Argentina 👨‍💻</div>  
 
 🔍My first contact with programming was through the curiosity of how to make those video games that fascinated me as a child. At that time it seemed very complex but I took it as a challenge, finally I discovered a world of opportunities, fun and learning, my true vocation! That's why I always give my best in every task and I love to accept challenges that boost my ability to solve adverse situations.🚀
 
